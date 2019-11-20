@@ -42,7 +42,7 @@
                     <version>0.4.4</version>
                     <configuration>
                          <jdkVersion>1.8</jdkVersion>
-                         <appName>spark-example-TU_NOMBRE_DE_USUARIO</appName>
+                         <appName>spark-example-angeisa97</appName>
                          <processTypes>
                               <!-- Tell Heroku how to launch your application -->
                               <web>java -jar ./target/pruebasSparkJava-0.0.1-jar-with-dependencies.jar</web>
